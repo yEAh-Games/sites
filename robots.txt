@@ -1,0 +1,11 @@
+Sitemap: https://sites.yeahgames.net/sitemap.xml
+
+User-agent: *
+Disallow: /data
+Disallow: /data/*
+Disallow: /static/css
+Disallow: /static/css/*
+Disallow: /CNAME
+Disallow: /tailwind.config.js
+Disallow: /api
+Disallow: /api/*
